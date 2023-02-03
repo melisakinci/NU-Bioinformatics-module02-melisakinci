@@ -1,1 +1,11 @@
-
+*.*
+!*.R
+!*.png
+!*.py
+!*.Rmd
+!*.md
+!.gitignore
+!*.jpg
+!*.ris
+!*.err
+!batch*.output
